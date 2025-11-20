@@ -71,3 +71,26 @@ lerna-debug.log*
 
 # Project specific
 output/
+# Large files and installers
+*.deb
+*.exe
+*.dmg
+*.pkg
+
+# Chrome/Chromium installers
+google-chrome-stable_current_amd64.deb
+chromium-browser*
+
+# Node modules (shouldn't be in repo)
+node_modules/
+
+# Environment files with secrets
+.env
+.env.local
+
+# Output data files (you might want to keep these, but they can be large)
+output/
+historical_output/
+batch_output/
+*.csv
+*.json
