@@ -1,5 +1,7 @@
-aiohttp
-urllib3
-requests
-playwright
-python-dotenv
+transformers
+torch
+sentence-transformers
+pandas
+numpy
+textblob
+vaderSentiment
