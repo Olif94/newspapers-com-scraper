@@ -1,0 +1,497 @@
+{
+  "search": {
+    "keyword": "coolie",
+    "dateRange": [
+      1870,
+      1870
+    ],
+    "location": "California",
+    "description": "Search for 'coolie' in 1870 California newspapers"
+  },
+  "results": {
+    "totalArticles": 60,
+    "searchTime": 19.173,
+    "articles": [
+      {
+        "title": "San Francisco Chronicle",
+        "pageNumber": "3",
+        "date": "1870-07-09",
+        "location": "San Francisco, California",
+        "keywordMatches": 13,
+        "url": "https://www.newspapers.com/image/1237454167?terms=coolie"
+      },
+      {
+        "title": "San Francisco Chronicle",
+        "pageNumber": "2",
+        "date": "1870-07-08",
+        "location": "San Francisco, California",
+        "keywordMatches": 13,
+        "url": "https://www.newspapers.com/image/1237453687?terms=coolie"
+      },
+      {
+        "title": "San Francisco Chronicle",
+        "pageNumber": "3",
+        "date": "1870-08-20",
+        "location": "San Francisco, California",
+        "keywordMatches": 11,
+        "url": "https://www.newspapers.com/image/1237473342?terms=coolie"
+      },
+      {
+        "title": "The San Francisco Examiner",
+        "pageNumber": "2",
+        "date": "1870-07-01",
+        "location": "San Francisco, California",
+        "keywordMatches": 10,
+        "url": "https://www.newspapers.com/image/461048695?terms=coolie"
+      },
+      {
+        "title": "Appeal-Democrat",
+        "pageNumber": "4",
+        "date": "1870-06-17",
+        "location": "Marysville, California",
+        "keywordMatches": 9,
+        "url": "https://www.newspapers.com/image/836500386?terms=coolie"
+      },
+      {
+        "title": "Daily Evening Herald",
+        "pageNumber": "1",
+        "date": "1870-06-18",
+        "location": "Stockton, California",
+        "keywordMatches": 9,
+        "url": "https://www.newspapers.com/image/488528927?terms=coolie"
+      },
+      {
+        "title": "San Francisco Chronicle",
+        "pageNumber": "3",
+        "date": "1870-08-10",
+        "location": "San Francisco, California",
+        "keywordMatches": 8,
+        "url": "https://www.newspapers.com/image/1237468714?terms=coolie"
+      },
+      {
+        "title": "The San Francisco Examiner",
+        "pageNumber": "3",
+        "date": "1870-07-09",
+        "location": "San Francisco, California",
+        "keywordMatches": 8,
+        "url": "https://www.newspapers.com/image/461052976?terms=coolie"
+      },
+      {
+        "title": "San Francisco Chronicle",
+        "pageNumber": "3",
+        "date": "1870-06-16",
+        "location": "San Francisco, California",
+        "keywordMatches": 7,
+        "url": "https://www.newspapers.com/image/1237523051?terms=coolie"
+      },
+      {
+        "title": "San Francisco Chronicle",
+        "pageNumber": "3",
+        "date": "1870-08-11",
+        "location": "San Francisco, California",
+        "keywordMatches": 7,
+        "url": "https://www.newspapers.com/image/1237469209?terms=coolie"
+      },
+      {
+        "title": "San Francisco Chronicle",
+        "pageNumber": "3",
+        "date": "1870-07-30",
+        "location": "San Francisco, California",
+        "keywordMatches": 7,
+        "url": "https://www.newspapers.com/image/1237463587?terms=coolie"
+      },
+      {
+        "title": "San Francisco Chronicle",
+        "pageNumber": "3",
+        "date": "1870-07-28",
+        "location": "San Francisco, California",
+        "keywordMatches": 7,
+        "url": "https://www.newspapers.com/image/1237462615?terms=coolie"
+      },
+      {
+        "title": "The San Francisco Call Bulletin",
+        "pageNumber": "1",
+        "date": "1870-07-13",
+        "location": "San Francisco, California",
+        "keywordMatches": 7,
+        "url": "https://www.newspapers.com/image/1233300291?terms=coolie"
+      },
+      {
+        "title": "The San Francisco Examiner",
+        "pageNumber": "3",
+        "date": "1870-08-10",
+        "location": "San Francisco, California",
+        "keywordMatches": 7,
+        "url": "https://www.newspapers.com/image/461065713?terms=coolie"
+      },
+      {
+        "title": "San Francisco Chronicle",
+        "pageNumber": "2",
+        "date": "1870-08-27",
+        "location": "San Francisco, California",
+        "keywordMatches": 6,
+        "url": "https://www.newspapers.com/image/1237476288?terms=coolie"
+      },
+      {
+        "title": "San Francisco Chronicle",
+        "pageNumber": "2",
+        "date": "1870-08-12",
+        "location": "San Francisco, California",
+        "keywordMatches": 6,
+        "url": "https://www.newspapers.com/image/1237469574?terms=coolie"
+      },
+      {
+        "title": "The San Francisco Call Bulletin",
+        "pageNumber": "3",
+        "date": "1870-08-17",
+        "location": "San Francisco, California",
+        "keywordMatches": 6,
+        "url": "https://www.newspapers.com/image/1233300709?terms=coolie"
+      },
+      {
+        "title": "The San Francisco Call Bulletin",
+        "pageNumber": "3",
+        "date": "1870-07-09",
+        "location": "San Francisco, California",
+        "keywordMatches": 6,
+        "url": "https://www.newspapers.com/image/1233300265?terms=coolie"
+      },
+      {
+        "title": "The San Francisco Call Bulletin",
+        "pageNumber": "3",
+        "date": "1870-06-17",
+        "location": "San Francisco, California",
+        "keywordMatches": 6,
+        "url": "https://www.newspapers.com/image/1233182442?terms=coolie"
+      },
+      {
+        "title": "The San Francisco Examiner",
+        "pageNumber": "2",
+        "date": "1870-09-30",
+        "location": "San Francisco, California",
+        "keywordMatches": 6,
+        "url": "https://www.newspapers.com/image/461086603?terms=coolie"
+      },
+      {
+        "title": "The San Francisco Examiner",
+        "pageNumber": "3",
+        "date": "1870-09-06",
+        "location": "San Francisco, California",
+        "keywordMatches": 6,
+        "url": "https://www.newspapers.com/image/461074719?terms=coolie"
+      },
+      {
+        "title": "The San Francisco Examiner",
+        "pageNumber": "2",
+        "date": "1870-08-30",
+        "location": "San Francisco, California",
+        "keywordMatches": 6,
+        "url": "https://www.newspapers.com/image/461072756?terms=coolie"
+      },
+      {
+        "title": "The San Francisco Examiner",
+        "pageNumber": "3",
+        "date": "1870-07-23",
+        "location": "San Francisco, California",
+        "keywordMatches": 6,
+        "url": "https://www.newspapers.com/image/461058961?terms=coolie"
+      },
+      {
+        "title": "The San Francisco Examiner",
+        "pageNumber": "3",
+        "date": "1870-07-14",
+        "location": "San Francisco, California",
+        "keywordMatches": 6,
+        "url": "https://www.newspapers.com/image/461054453?terms=coolie"
+      },
+      {
+        "title": "San Francisco Chronicle",
+        "pageNumber": "3",
+        "date": "1870-06-30",
+        "location": "San Francisco, California",
+        "keywordMatches": 5,
+        "url": "https://www.newspapers.com/image/1237526698?terms=coolie"
+      },
+      {
+        "title": "San Francisco Chronicle",
+        "pageNumber": "4",
+        "date": "1870-08-07",
+        "location": "San Francisco, California",
+        "keywordMatches": 5,
+        "url": "https://www.newspapers.com/image/1237467362?terms=coolie"
+      },
+      {
+        "title": "San Francisco Chronicle",
+        "pageNumber": "3",
+        "date": "1870-07-23",
+        "location": "San Francisco, California",
+        "keywordMatches": 5,
+        "url": "https://www.newspapers.com/image/1237460180?terms=coolie"
+      },
+      {
+        "title": "San Francisco Chronicle",
+        "pageNumber": "3",
+        "date": "1870-07-10",
+        "location": "San Francisco, California",
+        "keywordMatches": 5,
+        "url": "https://www.newspapers.com/image/1237454574?terms=coolie"
+      },
+      {
+        "title": "San Francisco Chronicle",
+        "pageNumber": "3",
+        "date": "1870-07-06",
+        "location": "San Francisco, California",
+        "keywordMatches": 5,
+        "url": "https://www.newspapers.com/image/1237452993?terms=coolie"
+      },
+      {
+        "title": "San Francisco Chronicle",
+        "pageNumber": "2",
+        "date": "1870-07-06",
+        "location": "San Francisco, California",
+        "keywordMatches": 5,
+        "url": "https://www.newspapers.com/image/1237452893?terms=coolie"
+      },
+      {
+        "title": "San Francisco Chronicle",
+        "pageNumber": "3",
+        "date": "1870-01-12",
+        "location": "San Francisco, California",
+        "keywordMatches": 5,
+        "url": "https://www.newspapers.com/image/1237449609?terms=coolie"
+      },
+      {
+        "title": "The San Francisco Call Bulletin",
+        "pageNumber": "3",
+        "date": "1870-07-30",
+        "location": "San Francisco, California",
+        "keywordMatches": 5,
+        "url": "https://www.newspapers.com/image/1233300498?terms=coolie"
+      },
+      {
+        "title": "The San Francisco Call Bulletin",
+        "pageNumber": "3",
+        "date": "1870-07-15",
+        "location": "San Francisco, California",
+        "keywordMatches": 5,
+        "url": "https://www.newspapers.com/image/1233300324?terms=coolie"
+      },
+      {
+        "title": "Daily Miner-Transcript",
+        "pageNumber": "2",
+        "date": "1870-07-03",
+        "location": "Nevada City, California",
+        "keywordMatches": 5,
+        "url": "https://www.newspapers.com/image/1099797102?terms=coolie"
+      },
+      {
+        "title": "The Sacramento Bee",
+        "pageNumber": "3",
+        "date": "1870-08-01",
+        "location": "Sacramento, California",
+        "keywordMatches": 5,
+        "url": "https://www.newspapers.com/image/623390558?terms=coolie"
+      },
+      {
+        "title": "The San Francisco Examiner",
+        "pageNumber": "3",
+        "date": "1870-11-21",
+        "location": "San Francisco, California",
+        "keywordMatches": 5,
+        "url": "https://www.newspapers.com/image/461115163?terms=coolie"
+      },
+      {
+        "title": "The San Francisco Examiner",
+        "pageNumber": "2",
+        "date": "1870-10-01",
+        "location": "San Francisco, California",
+        "keywordMatches": 5,
+        "url": "https://www.newspapers.com/image/461087090?terms=coolie"
+      },
+      {
+        "title": "The San Francisco Examiner",
+        "pageNumber": "3",
+        "date": "1870-08-12",
+        "location": "San Francisco, California",
+        "keywordMatches": 5,
+        "url": "https://www.newspapers.com/image/461066429?terms=coolie"
+      },
+      {
+        "title": "The San Francisco Examiner",
+        "pageNumber": "3",
+        "date": "1870-08-09",
+        "location": "San Francisco, California",
+        "keywordMatches": 5,
+        "url": "https://www.newspapers.com/image/461064766?terms=coolie"
+      },
+      {
+        "title": "The San Francisco Examiner",
+        "pageNumber": "4",
+        "date": "1870-07-30",
+        "location": "San Francisco, California",
+        "keywordMatches": 5,
+        "url": "https://www.newspapers.com/image/461061086?terms=coolie"
+      },
+      {
+        "title": "The San Francisco Examiner",
+        "pageNumber": "3",
+        "date": "1870-07-05",
+        "location": "San Francisco, California",
+        "keywordMatches": 5,
+        "url": "https://www.newspapers.com/image/461050635?terms=coolie"
+      },
+      {
+        "title": "The San Francisco Examiner",
+        "pageNumber": "2",
+        "date": "1870-02-01",
+        "location": "San Francisco, California",
+        "keywordMatches": 5,
+        "url": "https://www.newspapers.com/image/460977521?terms=coolie"
+      },
+      {
+        "title": "San Francisco Chronicle",
+        "pageNumber": "3",
+        "date": "1870-06-29",
+        "location": "San Francisco, California",
+        "keywordMatches": 4,
+        "url": "https://www.newspapers.com/image/1237526481?terms=coolie"
+      },
+      {
+        "title": "San Francisco Chronicle",
+        "pageNumber": "3",
+        "date": "1870-08-18",
+        "location": "San Francisco, California",
+        "keywordMatches": 4,
+        "url": "https://www.newspapers.com/image/1237472736?terms=coolie"
+      },
+      {
+        "title": "San Francisco Chronicle",
+        "pageNumber": "3",
+        "date": "1870-03-10",
+        "location": "San Francisco, California",
+        "keywordMatches": 4,
+        "url": "https://www.newspapers.com/image/1237472383?terms=coolie"
+      },
+      {
+        "title": "San Francisco Chronicle",
+        "pageNumber": "3",
+        "date": "1870-08-09",
+        "location": "San Francisco, California",
+        "keywordMatches": 4,
+        "url": "https://www.newspapers.com/image/1237468223?terms=coolie"
+      },
+      {
+        "title": "San Francisco Chronicle",
+        "pageNumber": "6",
+        "date": "1870-08-07",
+        "location": "San Francisco, California",
+        "keywordMatches": 4,
+        "url": "https://www.newspapers.com/image/1237467609?terms=coolie"
+      },
+      {
+        "title": "San Francisco Chronicle",
+        "pageNumber": "4",
+        "date": "1870-08-02",
+        "location": "San Francisco, California",
+        "keywordMatches": 4,
+        "url": "https://www.newspapers.com/image/1237464924?terms=coolie"
+      },
+      {
+        "title": "San Francisco Chronicle",
+        "pageNumber": "5",
+        "date": "1870-07-31",
+        "location": "San Francisco, California",
+        "keywordMatches": 4,
+        "url": "https://www.newspapers.com/image/1237464321?terms=coolie"
+      },
+      {
+        "title": "San Francisco Chronicle",
+        "pageNumber": "4",
+        "date": "1870-07-31",
+        "location": "San Francisco, California",
+        "keywordMatches": 4,
+        "url": "https://www.newspapers.com/image/1237464199?terms=coolie"
+      },
+      {
+        "title": "San Francisco Chronicle",
+        "pageNumber": "3",
+        "date": "1870-07-13",
+        "location": "San Francisco, California",
+        "keywordMatches": 4,
+        "url": "https://www.newspapers.com/image/1237455522?terms=coolie"
+      },
+      {
+        "title": "San Francisco Chronicle",
+        "pageNumber": "3",
+        "date": "1870-07-12",
+        "location": "San Francisco, California",
+        "keywordMatches": 4,
+        "url": "https://www.newspapers.com/image/1237455187?terms=coolie"
+      },
+      {
+        "title": "San Francisco Chronicle",
+        "pageNumber": "2",
+        "date": "1870-07-05",
+        "location": "San Francisco, California",
+        "keywordMatches": 4,
+        "url": "https://www.newspapers.com/image/1237452497?terms=coolie"
+      },
+      {
+        "title": "The San Francisco Call Bulletin",
+        "pageNumber": "3",
+        "date": "1870-08-19",
+        "location": "San Francisco, California",
+        "keywordMatches": 4,
+        "url": "https://www.newspapers.com/image/1233300734?terms=coolie"
+      },
+      {
+        "title": "The San Francisco Call Bulletin",
+        "pageNumber": "3",
+        "date": "1870-08-12",
+        "location": "San Francisco, California",
+        "keywordMatches": 4,
+        "url": "https://www.newspapers.com/image/1233300654?terms=coolie"
+      },
+      {
+        "title": "The San Francisco Call Bulletin",
+        "pageNumber": "1",
+        "date": "1870-08-10",
+        "location": "San Francisco, California",
+        "keywordMatches": 4,
+        "url": "https://www.newspapers.com/image/1233300613?terms=coolie"
+      },
+      {
+        "title": "The San Francisco Call Bulletin",
+        "pageNumber": "2",
+        "date": "1870-08-09",
+        "location": "San Francisco, California",
+        "keywordMatches": 4,
+        "url": "https://www.newspapers.com/image/1233300604?terms=coolie"
+      },
+      {
+        "title": "The San Francisco Call Bulletin",
+        "pageNumber": "1",
+        "date": "1870-03-10",
+        "location": "San Francisco, California",
+        "keywordMatches": 4,
+        "url": "https://www.newspapers.com/image/1233171716?terms=coolie"
+      },
+      {
+        "title": "The San Francisco Call Bulletin",
+        "pageNumber": "1",
+        "date": "1870-01-28",
+        "location": "San Francisco, California",
+        "keywordMatches": 4,
+        "url": "https://www.newspapers.com/image/1233167342?terms=coolie"
+      },
+      {
+        "title": "The Shasta Courier",
+        "pageNumber": "2",
+        "date": "1870-10-08",
+        "location": "Shasta, California",
+        "keywordMatches": 4,
+        "url": "https://www.newspapers.com/image/893066536?terms=coolie"
+      }
+    ]
+  }
+}
